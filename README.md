@@ -16,7 +16,6 @@
 
 * Java JDK
 * IntelliJ IDEA
-* dostęp do Maven
 * System Windows
 
 ## Uruchomienie aplikacji:
