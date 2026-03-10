@@ -16,7 +16,7 @@
 
 * Java JDK
 * IntelliJ IDEA
-* dostęp do Maven
+*  Maven Wrapper (`.\mvnw`) – nie wymaga instalacji Maven
 * System Windows
 
 ## Uruchomienie aplikacji:
